@@ -1,0 +1,44 @@
+c:\users\hp\documents\visual studio 2015\Projects\Proyecto 3Cuatri\Proyecto 3Cuatri\bin\Debug\Proyecto 3Cuatri.exe.config
+c:\users\hp\documents\visual studio 2015\Projects\Proyecto 3Cuatri\Proyecto 3Cuatri\bin\Debug\Proyecto 3Cuatri.exe
+c:\users\hp\documents\visual studio 2015\Projects\Proyecto 3Cuatri\Proyecto 3Cuatri\bin\Debug\Proyecto 3Cuatri.pdb
+c:\users\hp\documents\visual studio 2015\Projects\Proyecto 3Cuatri\Proyecto 3Cuatri\obj\Debug\Proyecto 3Cuatri.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2015\Projects\Proyecto 3Cuatri\Proyecto 3Cuatri\obj\Debug\Proyecto_3Cuatri.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2015\Projects\Proyecto 3Cuatri\Proyecto 3Cuatri\obj\Debug\Proyecto 3Cuatri.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2015\Projects\Proyecto 3Cuatri\Proyecto 3Cuatri\obj\Debug\Proyecto 3Cuatri.exe
+c:\users\hp\documents\visual studio 2015\Projects\Proyecto 3Cuatri\Proyecto 3Cuatri\obj\Debug\Proyecto 3Cuatri.pdb
+c:\users\hp\documents\visual studio 2015\Projects\Proyecto 3Cuatri\Proyecto 3Cuatri\obj\Debug\Proyecto_3Cuatri.frmBienvenido.resources
+c:\users\hp\documents\visual studio 2015\Projects\Proyecto 3Cuatri\Proyecto 3Cuatri\obj\Debug\Proyecto_3Cuatri.frmMenu.resources
+c:\users\hp\documents\visual studio 2015\Projects\Proyecto 3Cuatri\Proyecto 3Cuatri\obj\Debug\Proyecto_3Cuatri.frmRegistro.resources
+c:\users\hp\documents\visual studio 2015\Projects\Proyecto 3Cuatri\Proyecto 3Cuatri\obj\Debug\Proyecto_3Cuatri.frmIngreso.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Proyecto 3Cuatri\Proyecto 3Cuatri\obj\Debug\Proyecto_3Cuatri.frmCortedecaja.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Proyecto 3Cuatri\Proyecto 3Cuatri\obj\Debug\Proyecto_3Cuatri.frmImpirmirInventario.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Proyecto 3Cuatri\Proyecto 3Cuatri\obj\Debug\Proyecto_3Cuatri.frmImprimir.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Proyecto 3Cuatri\Proyecto 3Cuatri\obj\Debug\Proyecto_3Cuatri.frmImprimirCortedeCaja.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Proyecto 3Cuatri\Proyecto 3Cuatri\obj\Debug\Proyecto_3Cuatri.frmImprimirVenta.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Proyecto 3Cuatri\Proyecto 3Cuatri\obj\Debug\Proyecto_3Cuatri.frmInventario.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Proyecto 3Cuatri\Proyecto 3Cuatri\obj\Debug\Proyecto_3Cuatri.frmVentas.resources
+C:\Users\Lupita\Desktop\Garcia Sosa- Angeles Aguilar\Proyecto 3Cuatri\Proyecto 3Cuatri\bin\Debug\Proyecto 3Cuatri.exe.config
+C:\Users\Lupita\Desktop\Garcia Sosa- Angeles Aguilar\Proyecto 3Cuatri\Proyecto 3Cuatri\obj\Debug\Proyecto 3Cuatri.exe
+C:\Users\Lupita\Desktop\Garcia Sosa- Angeles Aguilar\Proyecto 3Cuatri\Proyecto 3Cuatri\obj\Debug\Proyecto 3Cuatri.pdb
+C:\Users\Lupita\Desktop\Programacion visual\Garcia Sosa- Angeles Aguilar\Proyecto 3Cuatri\Proyecto 3Cuatri\bin\Debug\Proyecto 3Cuatri.exe.config
+C:\Users\Lupita\Desktop\Programacion visual\Garcia Sosa- Angeles Aguilar\Proyecto 3Cuatri\Proyecto 3Cuatri\obj\Debug\Proyecto 3Cuatri.exe
+C:\Users\Lupita\Desktop\Programacion visual\Garcia Sosa- Angeles Aguilar\Proyecto 3Cuatri\Proyecto 3Cuatri\obj\Debug\Proyecto 3Cuatri.pdb
+C:\Users\Lupita\Desktop\Programacion visual\Garcia Sosa- Angeles Aguilar\Proyecto 3Cuatri\Proyecto 3Cuatri\bin\Debug\Proyecto 3Cuatri.exe
+C:\Users\Lupita\Desktop\Programacion visual\Garcia Sosa- Angeles Aguilar\Proyecto 3Cuatri\Proyecto 3Cuatri\bin\Debug\Proyecto 3Cuatri.pdb
+C:\Users\Lupita\Desktop\Programacion visual\Garcia Sosa- Angeles Aguilar\Proyecto 3Cuatri\Proyecto 3Cuatri\obj\Debug\Proyecto 3Cuatri.csprojResolveAssemblyReference.cache
+C:\Users\Lupita\Desktop\Programacion visual\Garcia Sosa- Angeles Aguilar\Proyecto 3Cuatri\Proyecto 3Cuatri\obj\Debug\Proyecto_3Cuatri.frmBienvenido.resources
+C:\Users\Lupita\Desktop\Programacion visual\Garcia Sosa- Angeles Aguilar\Proyecto 3Cuatri\Proyecto 3Cuatri\obj\Debug\Proyecto_3Cuatri.frmCortedecaja.resources
+C:\Users\Lupita\Desktop\Programacion visual\Garcia Sosa- Angeles Aguilar\Proyecto 3Cuatri\Proyecto 3Cuatri\obj\Debug\Proyecto_3Cuatri.frmImpirmirInventario.resources
+C:\Users\Lupita\Desktop\Programacion visual\Garcia Sosa- Angeles Aguilar\Proyecto 3Cuatri\Proyecto 3Cuatri\obj\Debug\Proyecto_3Cuatri.frmImprimir.resources
+C:\Users\Lupita\Desktop\Programacion visual\Garcia Sosa- Angeles Aguilar\Proyecto 3Cuatri\Proyecto 3Cuatri\obj\Debug\Proyecto_3Cuatri.frmImprimirCortedeCaja.resources
+C:\Users\Lupita\Desktop\Programacion visual\Garcia Sosa- Angeles Aguilar\Proyecto 3Cuatri\Proyecto 3Cuatri\obj\Debug\Proyecto_3Cuatri.frmImprimirVenta.resources
+C:\Users\Lupita\Desktop\Programacion visual\Garcia Sosa- Angeles Aguilar\Proyecto 3Cuatri\Proyecto 3Cuatri\obj\Debug\Proyecto_3Cuatri.frmIngreso.resources
+C:\Users\Lupita\Desktop\Programacion visual\Garcia Sosa- Angeles Aguilar\Proyecto 3Cuatri\Proyecto 3Cuatri\obj\Debug\Proyecto_3Cuatri.frmInventario.resources
+C:\Users\Lupita\Desktop\Programacion visual\Garcia Sosa- Angeles Aguilar\Proyecto 3Cuatri\Proyecto 3Cuatri\obj\Debug\Proyecto_3Cuatri.frmMenu.resources
+C:\Users\Lupita\Desktop\Programacion visual\Garcia Sosa- Angeles Aguilar\Proyecto 3Cuatri\Proyecto 3Cuatri\obj\Debug\Proyecto_3Cuatri.frmRegistro.resources
+C:\Users\Lupita\Desktop\Programacion visual\Garcia Sosa- Angeles Aguilar\Proyecto 3Cuatri\Proyecto 3Cuatri\obj\Debug\Proyecto_3Cuatri.frmVentas.resources
+C:\Users\Lupita\Desktop\Programacion visual\Garcia Sosa- Angeles Aguilar\Proyecto 3Cuatri\Proyecto 3Cuatri\obj\Debug\Proyecto_3Cuatri.Properties.Resources.resources
+C:\Users\Lupita\Desktop\Programacion visual\Garcia Sosa- Angeles Aguilar\Proyecto 3Cuatri\Proyecto 3Cuatri\obj\Debug\Proyecto 3Cuatri.csproj.GenerateResource.Cache
+C:\Users\Lupita\Desktop\Proyecto 3Cuatri\Proyecto 3Cuatri\bin\Debug\Proyecto 3Cuatri.exe.config
+C:\Users\Lupita\Desktop\Proyecto 3Cuatri\Proyecto 3Cuatri\obj\Debug\Proyecto 3Cuatri.exe
+C:\Users\Lupita\Desktop\Proyecto 3Cuatri\Proyecto 3Cuatri\obj\Debug\Proyecto 3Cuatri.pdb
